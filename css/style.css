@@ -1,0 +1,335 @@
+@font-face {
+
+    font-family: 'ubuntu';
+    src=url(../fonts/ubuntu-R.ttf)
+}
+
+.header-bg {
+    background-color: #648cff;
+    min-height: 100px;
+}
+
+.new-nav-bar {
+
+    padding-top: 9px;
+    background-image: none;
+    background-color: transparent;
+    border: 0px;
+
+
+}
+
+.logo {
+
+    padding-top: 32px;
+    font-size: 14px;
+    color: white;
+    font-weight: bold;
+    font-family: 'ubuntu';
+
+}
+
+.nav li a {
+    color: white!important;
+}
+
+.banar {
+    background-image: url(../images/header-main-bg.jpg);
+    background-size: cover;
+    min-height: 800px;
+}
+
+.banar-discription {
+    padding-left: 100px;
+    padding-top: 100px;
+}
+
+.banar h1 {
+
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'ubuntu';
+}
+
+.banar p {
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'ubuntu';
+}
+
+#btn {
+    border: 1px solid #fc6a42;
+    padding: 15px 29px;
+
+    background-color: #fc6a42;
+    color: white;
+}
+
+#fts {
+    border: 1px solid #4466c9;
+    padding: 15px 29px;
+
+    background-color: #4466c9;
+    color: white;
+}
+
+.mobile {
+    padding-left: 165px;
+}
+
+.features {
+    min-height: 550px;
+    background-color: #ffffff;
+
+}
+
+.perfect-features {
+    text-align: center;
+    padding-top: 127px;
+
+}
+
+.perfect-features h1 {
+
+    color: #648cff;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: 'ubuntu';
+}
+
+.perfect-features p {
+
+    color: #999999;
+    font-size: 17px;
+    font-family: 'ubuntu';
+    font-weight: bold;
+}
+
+.text {
+
+    padding-left: 99px;
+    padding-top: 125px;
+}
+
+.text h1 {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'ubuntu';
+}
+
+.text p {
+
+    color: #b8b8b8;
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 80px;
+    font-family: 'ubuntu';
+}
+
+.sample {}
+
+.simple-widgets {
+
+    padding-left: 264px;
+    padding-top: 200px;
+    text-align: center;
+}
+
+.simple-widgets h1 {
+    color: #648cff;
+    font-size: 31px;
+    font-weight: bold;
+    font-family: 'ubuntu';
+}
+
+.simple-widgets p {
+    color: #dfdfdf;
+    padding-top: 15px;
+    font-size: 19px;
+    font-family: 'ubuntu';
+}
+
+.image-section {}
+
+.indicator2 {
+    padding-left: 35px;
+    padding-top: 160px;
+}
+
+.indicator1 {
+    padding-top: 160px;
+}
+
+.screenshot {
+    padding-top: 130px;
+    text-align: center;
+}
+
+.screenshot h1 {
+    color: #648cff;
+    font-weight: bold;
+    font-size: 32px;
+    font-family: 'ubuntu';
+}
+
+.screenshot p {
+    font-weight: bold;
+    padding-top: 12px;
+    font-size: 14px;
+    color: #999999;
+}
+
+.new-work {}
+
+.cloud {
+    padding-top: 173px;
+    padding-left: 117px;
+}
+
+.car {}
+
+.cloud h1 {
+    color: #648cff;
+    font-weight: bold;
+    font-size: 32px;
+    font-family: 'ubuntu';
+}
+
+.cloud p {
+    font-weight: bold;
+    padding-top: 12px;
+    font-size: 14px;
+    color: #353854;
+    font-family: 'ubuntu';
+}
+
+.img-95 {
+    padding-left: 100px;
+}
+
+.sun {
+    padding-top: 173px;
+    padding-left: 117px;
+}
+
+.sun h1 {
+    color: #648cff;
+    font-weight: bold;
+    font-size: 32px;
+    font-family: 'ubuntu';
+}
+
+.sun p {
+    font-weight: bold;
+    padding-top: 12px;
+    font-size: 14px;
+    color: #353854;
+    font-family: 'ubuntu';
+}
+
+.circle {}
+
+.new-sun {}
+
+.people {
+
+    text-align: center;
+    padding-top: 120px;
+}
+
+.people h1 {
+    color: #648cff;
+    font-weight: bold;
+    font-size: 32px;
+    font-family: 'ubuntu';
+}
+
+.people p {
+    font-weight: bold;
+    padding-top: 12px;
+    font-size: 14px;
+    color: #999999;
+    font-family: 'ubuntu';
+}
+
+.peole-comments {}
+
+.peole-comments h1 {
+    font-weight: bold;
+    padding-top: 12px;
+    font-size: 14px;
+    color: #353854;
+    font-family: 'ubuntu';
+}
+
+.peole-comments p {
+    font-weight: bold;
+    padding-top: 12px;
+    font-size: 14px;
+    color: #999999;
+    font-family: 'ubuntu';
+}
+
+.up-down {}
+
+.down-img {
+    padding-left: 433px;
+}
+
+.background {
+    background-image: url(../images/background.jpg);
+    background-repeat: no repeat;
+    background-size: cover;
+    background-position: center center;
+    min-height: 500px;
+}
+
+.apps-store {
+    padding-top: 120px;
+}
+
+.apps-store h1 {
+    font-family: 'ubuntu';
+    font-size: 27px;
+    font-weight: bold;
+    color: white;
+    font-family: 'ubuntu';
+}
+
+.apps-store p {
+    font-family: 'ubuntu';
+    padding-top: 47px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'ubuntu';
+}
+
+.img {
+    padding-top: 34px;
+}
+
+.footer-bg {
+    background-color: #353854;
+    min-height: 220px;
+    border-bottom: 1px solid #434769;
+}
+
+.footer-bottom {
+    background-color: #353854;
+    min-height: 153px;
+}
+
+.copyright {
+    padding-top: 53px;
+
+
+}
+
+.copyright p {}
+
+.arrow {
+    padding-top: 133px;
+}
